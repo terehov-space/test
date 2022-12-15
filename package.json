@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.6",
+    "add": "^2.0.6",
+    "axios": "^1.2.1",
+    "iron-session": "^6.3.1",
+    "pinia": "^2.0.28",
+    "yarn": "^1.22.19"
+  }
+}
